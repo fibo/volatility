@@ -1,6 +1,6 @@
 {
   "name": "volatility",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "is the degree of variation of a trading price series over time",
   "main": "index.js",
   "scripts": {
@@ -29,6 +29,6 @@
   "devDependencies": {
     "markdown2code": "^0.3.0",
     "pre-commit": "^1.2.2",
-    "standa": "^1.4.0"
+    "standa": "^2.0.0"
   }
 }
